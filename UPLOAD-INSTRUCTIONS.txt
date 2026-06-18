@@ -1,6 +1,6 @@
 Upload the CONTENTS of this folder to the root of your GitHub repository named:
 
-portfoliowebsite
+cyycyportfoliowebsite
 
 Do not upload this parent folder as a folder. Open this folder, select everything inside it, then drag the selected files/folders into GitHub's upload page.
 
@@ -21,4 +21,4 @@ All video files in this upload package have been web-compressed for GitHub brows
 After upload, commit the files. Then go to repository Settings > Pages and publish from the main branch root.
 
 The expected URL should look like:
-https://YOUR-GITHUB-USERNAME.github.io/portfoliowebsite/
+https://YOUR-GITHUB-USERNAME.github.io/cyycyportfoliowebsite/
