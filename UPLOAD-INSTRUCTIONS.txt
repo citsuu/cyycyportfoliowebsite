@@ -1,0 +1,24 @@
+Upload the CONTENTS of this folder to the root of your GitHub repository named:
+
+portfoliowebsite
+
+Do not upload this parent folder as a folder. Open this folder, select everything inside it, then drag the selected files/folders into GitHub's upload page.
+
+Important files/folders to include:
+- index.html
+- 404.html
+- .nojekyll
+- _next
+- media
+- contact
+- portfolio
+- editor
+- 404
+- favicon.svg
+
+All video files in this upload package have been web-compressed for GitHub browser upload. A few videos still use small .part files with matching .chunked.json files because the exported site points to those manifests. Keep those files together in media/videos or those videos will not play.
+
+After upload, commit the files. Then go to repository Settings > Pages and publish from the main branch root.
+
+The expected URL should look like:
+https://YOUR-GITHUB-USERNAME.github.io/portfoliowebsite/
